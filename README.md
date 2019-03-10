@@ -1,4 +1,3 @@
 # VirtualSoc
-My main project for Computer Networks. It's an application using a concurrent server for posting and keeping in touch with friends, written in C++.
-
+A C++ console application which implements a concurrent TCP server and simulates a social web application: users can create private/public posts, add friends, get in touch with certain groups of people. All of the information is stored in a database.
 For more details, see the documentation attached.
